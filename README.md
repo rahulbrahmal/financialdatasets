@@ -8,3 +8,7 @@ Research and implementation specifications for cloning the Financial Datasets AP
 - [Bursa Malaysia equivalence map](docs/specs/rahul-39-bursa-equivalence-map.md)
 - [Bursa data sources, gaps, and risks](docs/specs/rahul-39-bursa-data-sources-gaps.md)
 - [Recommended next implementation tickets](docs/specs/rahul-39-next-implementation-tickets.md)
+
+## RAHUL-41 Specs
+
+- [Bursa company announcements retrieval research](docs/specs/rahul-41-bursa-company-announcements-retrieval.md)
